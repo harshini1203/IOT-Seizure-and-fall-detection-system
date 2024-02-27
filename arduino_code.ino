@@ -8,7 +8,7 @@
 #define OLED_RESET -1
 
 const char* ssid = "SSN";
-const char* password = "Ssn1!Som2@Sase3#";
+const char* password = "#####";
 const char* serverName = "http://api.thingspeak.com/update";
 String apiKey = "DDTR3XMOYVONB5JY";
 

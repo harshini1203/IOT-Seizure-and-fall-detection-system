@@ -38,10 +38,10 @@ The data is read and sent to Thingspeak cloud and also displayed using OLED.
 ![image](https://github.com/user-attachments/assets/dc06ce45-6ecd-4470-8770-8020df2f9106)
 
 ### Hardware:
-![WhatsApp_Image_2024-09-02_at_22 52 06_f8d5265a-transformed](https://github.com/user-attachments/assets/1419cee5-ffd7-431e-b136-21b30b95c6d8)
 
-![WhatsApp Image 2024-09-02 at 22 51 50_640ddf6d](https://github.com/user-attachments/assets/3dc9e0d7-1920-4f4c-b4d8-0d45f748b54f)
+<img src="https://github.com/user-attachments/assets/1419cee5-ffd7-431e-b136-21b30b95c6d8" width="200px" height="150px">
 
+<img src="https://github.com/user-attachments/assets/3dc9e0d7-1920-4f4c-b4d8-0d45f748b54f" width="200px" height="150px">
 ## Future scope:
 Using machine learning classification algorithms to classify a seizure based on the sensor data and using the provided user details like phone number to send them an alert. 
 
